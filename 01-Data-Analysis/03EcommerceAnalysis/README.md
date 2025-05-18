@@ -1,5 +1,6 @@
 Superstore sales analysis
 #observations made in the data set
+
 1.Monthly Sales Analysis=>highest in November and lowest in January
 2.category wise sales analysis=>Tech category has highest Sales
 3.subcategory wise sales analysis=>phone has highest sales
