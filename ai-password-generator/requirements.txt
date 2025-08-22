@@ -1,0 +1,2 @@
+# No external dependencies required - uses only Python standard library
+# This keeps the MVP simple and lightweight
